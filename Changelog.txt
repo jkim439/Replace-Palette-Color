@@ -1,0 +1,8 @@
+Replace Palette Color Changelog
+
+v1.0.1 (November 15, 2018)
+- Replace 'palette.npy' file
+- Add Rollback Mode
+
+v1.0.0 (November 14, 2018)
+- Initial release
